@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hello, I'm Leonardo Nascimento!
 
-<!--
-**Leonardo-Silva-Nascimento/Leonardo-Silva-Nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** based in **São Paulo, Brazil** 🌆, passionate about building efficient, scalable, and user-friendly web applications. I am dedicated to meeting deadlines, delivering high-level results, and constantly improving to add value to my projects and teams.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: 
+  - PHP
+  - JavaScript (ES6+)
+  - TypeScript
+  - CoffeeScript
+  - HTML5
+  - CSS3
+
+- **Frameworks & Libraries**:
+  - Laravel
+  - CakePHP
+  - React
+  - Angular
+  - Bootstrap
+  - jQuery
+
+- **Databases**:
+  - MySQL
+  - PostgreSQL
+  - Redis
+
+- **Tools & Platforms**:
+  - Docker
+  - Jenkins
+  - Prometheus
+  - Git
+  - Scrum
+
+- **CMS**:
+  - WordPress
+
+- **Web Development**:
+  - UX/UI design
+  - API development and integrations
+  - Web scraping tools
+
+## 🎓 Education
+
+- **Analysis and Systems Development** (2023 - Estácio University)
+
+## 💻 Current Focus
+
+At present, I'm focused on developing internal systems and web scraping tools, integrating APIs, and enhancing the overall user experience across the web. With a strong command of PHP, JavaScript frameworks, and modern development tools, I strive to bring the best technical solutions to the table.
+
+---
+
+🌟 Let's connect and collaborate on exciting projects! 
